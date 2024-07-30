@@ -175,8 +175,4 @@ Customize the mask generation process with advanced options like `points_per_sid
 
 Feel free to contribute to this project by opening issues, submitting pull requests, or suggesting improvements. For more details, please refer to the CONTRIBUTING.md file.
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
----
