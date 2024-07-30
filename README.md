@@ -1,6 +1,19 @@
 # Segment Anything Model 2 (SAM 2) - Project Repository
 ![image](https://github.com/user-attachments/assets/b16c4745-08c6-424c-9d69-9a2cd0f0d86f)
 
+
+
+**Image Segmentation** involves dividing an image into segments or regions for easier analysis. It can be:
+
+- **Semantic Segmentation**: Classifies each pixel into a category (e.g., "car").
+- **Instance Segmentation**: Differentiates between instances of the same object (e.g., multiple cars).
+- **Panoptic Segmentation**: Combines both semantic and instance segmentation.
+
+**Segment Anything Model 2 (SAM 2)**: A transformer-based model designed for efficient and accurate image segmentation across various tasks and domains, enabling real-time processing and advanced visual analysis.
+
+
+
+
 ## Overview
 
 Segment Anything Model 2 (SAM 2) is a powerful foundation model designed for visual segmentation in images and videos. Leveraging an efficient transformer architecture, SAM 2 enables real-time processing and excels across a variety of visual tasks and domains.
