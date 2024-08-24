@@ -17,9 +17,8 @@ print("HOME:", HOME)
 
 """### Install SAM2 and dependencies"""
 
-# Commented out IPython magic to ensure Python compatibility.
 !git clone https://github.com/facebookresearch/segment-anything-2.git
-# %cd {HOME}/segment-anything-2
+
 !pip install -e . -q
 
 !pip install -q supervision jupyter_bbox_widget
